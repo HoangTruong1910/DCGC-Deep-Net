@@ -35,9 +35,4 @@ This repository contains the implementation of binary segmentation models for de
 
 - **Image Segmentation** : The images segmentation use DCGC Deep Net
 
-![image](https://github.com/user-attachments/assets/2bcfeed1-1772-4a3a-9bbf-81db949e62f3)
-![image](https://github.com/user-attachments/assets/8e21d07e-ca16-486f-b4b8-e2b7ae4c0799)
-![image](https://github.com/user-attachments/assets/ed31a069-fd10-4601-b6e3-8a2e660d2af5)
-![image](https://github.com/user-attachments/assets/9a55c24d-e6e9-4259-ba5a-b162b6d435dd)
-![image](https://github.com/user-attachments/assets/06e81498-23f4-49ed-9f0e-aa5a57301cdf)
-![image](https://github.com/user-attachments/assets/54de505e-62ab-40f0-b1e4-739928172947)
+![image](https://github.com/user-attachments/assets/05b70af8-91f2-4ffb-9516-2683f18ba03d)
