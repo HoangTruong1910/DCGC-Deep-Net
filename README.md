@@ -6,7 +6,7 @@ This repository contains the implementation of binary segmentation models for de
 - **Dataset**: Kvasir SEG
 - **Description**: The Kvasir dataset includes a variety of annotated images from gastrointestinal examinations. For this project, we focus on the polyp images, where each image is paired with a ground truth mask indicating the polyp region.
 ## Approach
-- The approach involves training deep learning models to perform binary segmentation of polyps in the provided images. The models are evaluated based on metrics like Dice coefficient, Intersection over Union (IoU), and accuracy to ensure reliable segmentation results.
+- The approach involves training deep learning models to perform binary segmentation of polyps in the provided images. The models are evaluated based on metrics like Dice coefficient, Intersection over Union (IoU), and Accuracy to ensure reliable segmentation results.
 
 ## DCGC Deep Net Architecture
 
