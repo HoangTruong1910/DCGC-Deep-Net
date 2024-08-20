@@ -1,4 +1,4 @@
-# Polyp Segmentation in Small Intestine using Kvasir Dataset
+# Polyp Segmentation use my model in Kvasir SEG Dataset
 ## Overview
 This repository contains the implementation of binary segmentation models for detecting polyps in small intestine images. The project leverages the Kvasir dataset, which provides a rich collection of annotated endoscopic images. Accurate segmentation of polyps is crucial for early diagnosis and treatment of gastrointestinal diseases.
 
@@ -22,3 +22,8 @@ This repository contains the implementation of binary segmentation models for de
 
 ## Deep Block
 ![Deep_Block](https://github.com/user-attachments/assets/87294240-32f1-4183-b188-9326fb15afae)
+
+## Result
+- **DCGC Deep Net** : Dice Coefficent, Jaccard Index (IoU) and Accuracy Metric
+![metric](https://github.com/user-attachments/assets/9cf7b348-0193-4fee-95e8-9fe91c65e3e8)
+
