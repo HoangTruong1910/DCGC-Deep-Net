@@ -26,7 +26,7 @@ This repository contains the implementation of binary segmentation models for de
 
 ## Deep Block
 
-![Deep_Block](https://github.com/user-attachments/assets/87294240-32f1-4183-b188-9326fb15afae)
+![Deep_Block](https://github.com/user-attachments/assets/c224120d-0452-45b8-bdac-8d99319691bb)
 
 ## Result
 - **DCGC Deep Net** : Dice Coefficent, Jaccard Index (IoU) and Accuracy Metric
