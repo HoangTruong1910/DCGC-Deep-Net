@@ -10,7 +10,7 @@ This repository contains the implementation of binary segmentation models for de
 
 ## DCGC Deep Net Architecture
 
-![DCGC_Deep_Net](https://github.com/user-attachments/assets/c8d0aa48-5cd9-4124-8382-eab451c41fee)
+![DCGC_Deep_Net](https://github.com/user-attachments/assets/9779c50e-d673-45b4-abb7-5e2b79a0df88)
 
 ## Residual Block
 
