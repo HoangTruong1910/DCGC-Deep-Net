@@ -22,7 +22,7 @@ This repository contains the implementation of binary segmentation models for de
 
 ## Dual Cross General Convolution Block (DCGC Block)
 
-![DCGC_Block](https://github.com/user-attachments/assets/2439c121-17b3-48ca-9ef6-c138b31d69a7)
+![DCGC_Block](https://github.com/user-attachments/assets/f2df86a4-8687-4eac-af8c-cc6c52e9c9da)
 
 ## Deep Block
 
