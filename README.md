@@ -16,7 +16,7 @@ This repository contains the implementation of binary segmentation models for de
 
 ![Residual_Block](https://github.com/user-attachments/assets/ae5e8a91-bee1-4d5b-af79-eaca3d2a27c0)
 
-## Bottle and Inverted Residual Block
+## Bottleneck and Inverted Residual Block
 
 ![Bottle_Inverted_Residual_Block](https://github.com/user-attachments/assets/d74a4292-dc96-40cd-abb7-b5e03c5a3203)
 
