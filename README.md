@@ -20,7 +20,7 @@ This repository contains the implementation of binary segmentation models for de
 
 ![Bottle_Inverted_Residual_Block](https://github.com/user-attachments/assets/d74a4292-dc96-40cd-abb7-b5e03c5a3203)
 
-## Dual Cross General Convolution Block (DCGC Block)
+## Dual Crossing General Convolution Block (DCGC Block)
 
 ![DCGC_Block](https://github.com/user-attachments/assets/f2df86a4-8687-4eac-af8c-cc6c52e9c9da)
 
